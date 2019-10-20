@@ -1,0 +1,7 @@
+apiVersion: syncrd.atteg.com/v1beta1
+kind: Syncr
+metadata:
+  name: syncr-sample
+spec:
+  # Add fields here
+  foo: bar

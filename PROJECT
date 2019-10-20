@@ -1,0 +1,7 @@
+version: "2"
+domain: atteg.com
+repo: github.com/att-cloud-native-labs/syncrd
+resources:
+- group: syncr
+  version: v1beta1
+  kind: Syncr
