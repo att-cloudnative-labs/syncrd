@@ -3,6 +3,16 @@ entries:
   syncrd:
   - apiVersion: v2
     appVersion: 0.0.2
+    created: "2022-11-14T13:51:00.558717639Z"
+    description: A Syncrd Helm chart
+    digest: 4074abf6fb143ce01acc42d686e3abf103a913f1c830127421e9019a24ddee43
+    name: syncrd
+    type: application
+    urls:
+    - https://github.com/att-cloudnative-labs/syncrd/releases/download/syncrd-1.0.5/syncrd-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v2
+    appVersion: 0.0.2
     created: "2022-09-22T01:42:40.698347587Z"
     description: A Syncrd Helm chart
     digest: def218e7e7d12d36c47c771bfa8b8c79f2160f6229ffd432fcfbe9323c192e2b
